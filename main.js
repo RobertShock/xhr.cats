@@ -1,8 +1,9 @@
-var cats = [
-{name: "Fluffy", color: "Green", url:"https://i.ytimg.com/vi/-OJMIqVrON0/maxresdefault.jpg"},
-{name: "Krabby", color: "Red", url:"https://thechive.files.wordpress.com/2016/10/1874295-211.jpg?quality=85&strip=info&w=600"},
-{name: "Maximus", color: "N/A", url:"https://pbs.twimg.com/media/CVB4sEnUsAAQaCN.jpg"}
-];
+// var cats = [
+// {name: "Fluffy", color: "Green", url:"https://i.ytimg.com/vi/-OJMIqVrON0/maxresdefault.jpg"},
+// {name: "Krabby", color: "Red", url:"https://thechive.files.wordpress.com/2016/10/1874295-211.jpg?quality=85&strip=info&w=600"},
+// {name: "Maximus", color: "N/A", url:"https://pbs.twimg.com/media/CVB4sEnUsAAQaCN.jpg"}
+// ]; ARRAY ADDED TO JSON FILE
+
 
 function domString(){
 }
