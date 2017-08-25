@@ -56,7 +56,7 @@ function catDomStringFunction(currentCat) {
   var catDomString = "";
  		catDomString += '<section class="cat">';
  		catDomString += 	'<div class="catImage">';
- 		catDomString += 		'<img src="' + currentCat.url + '">';
+ 		catDomString += 		'<img class="catPic" src="' + currentCat.url + '">';
  		catDomString += 	'</div>';
  		catDomString += 	'<div class="catName">';
  		catDomString += 		'<h2>' + currentCat.name + '</h2>';
